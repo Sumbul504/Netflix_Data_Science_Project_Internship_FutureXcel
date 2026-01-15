@@ -18,6 +18,6 @@ Python
 Pandas
 NumPy
 Matplotlib
-Seaborn
+Seaborn.
 
 **Internship: FutureXcel**
