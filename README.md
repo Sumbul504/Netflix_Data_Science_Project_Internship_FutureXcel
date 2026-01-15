@@ -15,9 +15,13 @@ Rule-based chatbot
 
 # **Tools Used:**
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
-Seaborn.
+
+Seaborn
 
 **Internship: FutureXcel**
